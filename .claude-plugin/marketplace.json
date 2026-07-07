@@ -1,0 +1,15 @@
+{
+  "name": "darya-plugins",
+  "description": "Darya's Claude Code plugins — currently fable-mode, a discipline skill that applies Fable 5's judgment, verification, and reporting habits.",
+  "owner": {
+    "name": "Darya",
+    "email": "daryabsb@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "fable-mode",
+      "source": "./",
+      "description": "Makes Claude operate with Fable 5's judgment, planning, verification, and reasoning habits. Trigger with 'fable mode', 'like fable', or 'with fable'."
+    }
+  ]
+}

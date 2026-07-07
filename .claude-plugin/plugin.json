@@ -1,0 +1,12 @@
+{
+  "name": "fable-mode",
+  "displayName": "Fable Mode",
+  "version": "1.0.0",
+  "description": "Makes Claude operate with Fable 5's judgment, planning, verification, and reasoning habits. Trigger with 'fable mode', 'like fable', or 'with fable'.",
+  "author": {
+    "name": "Darya",
+    "email": "daryabsb@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["fable", "verification", "judgment", "reasoning", "discipline"]
+}
