@@ -8,5 +8,6 @@
     "email": "daryabsb@gmail.com"
   },
   "license": "Apache-2.0",
+  "repository": "https://github.com/daryabsb/fable-mode-plugin",
   "keywords": ["fable", "verification", "judgment", "reasoning", "discipline"]
 }

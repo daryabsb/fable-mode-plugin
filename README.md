@@ -9,9 +9,9 @@ outcome before detail, root cause before patch.
 This repo is both the plugin and its marketplace, so installation is two commands
 inside Claude Code:
 
-**From GitHub** (after this repo is pushed, replace `<user>/<repo>`):
+**From GitHub:**
 ```
-/plugin marketplace add <user>/<repo>
+/plugin marketplace add daryabsb/fable-mode-plugin
 /plugin install fable-mode@darya-plugins
 ```
 
